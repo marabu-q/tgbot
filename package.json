@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "node-telegram-bot-api": "^0.40.0",
     "socks5-https-client": "^1.2.1"
   },
